@@ -15,3 +15,4 @@ This is where I put my ideas / notes / thoughts
  -  a docker instance of a service for saving/organising and viewing your guitar tabs. The idea is that you can store them locally, incase they get taken down from your guitar tab supplier of choice.
  -  'VinylHitlist' - Let's make a service that hooks up to discogs. You'd set your "happy to pay" price, and sellers can log in and see who's willing to pay X for the record. Should be a nice compromise and get rid of scalpers.
  -  CSV - > pocketbase collection. A simple auto import tool for basic csv files into docker collections. It would make a collection and populate each field via node.  Could be useful for some people.
+ -  "Home Improvement List" - a self hosted docker image / app that will allow you to plan out your home renovations, save research, products, have a home inventory of items/tools etc etc. 
