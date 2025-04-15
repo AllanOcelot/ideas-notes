@@ -2,7 +2,7 @@
 This is where I put my ideas / notes / thoughts 
 
 
-## Last update: lunch break, friday 24th Jan
+## Last update: Tuesday 15th April 25
 
 # Currently doing / learning in own time: 
   - Docker ( bit late to the club, but never had a use case in my career )
