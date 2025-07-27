@@ -19,3 +19,4 @@ This is where I put my ideas / notes / thoughts
  -  "Home Improvement List" - a self hosted docker image / app that will allow you to plan out your home renovations, save research, products, have a home inventory of items/tools etc etc.
  -  Recreate the 'sphere grid' from Final Fantasy X in three JS / some graphics lib. Just a neat little weekend project.
  -  Runelite plugin, on teleport, camera auto faces north
+ -  A rougelike game, where you start off with a broken space ship, and go on a quest between randomly generated planets, but your ship systems wear down / need maintaining. 
